@@ -1,0 +1,17 @@
+# 本地产物
+work/
+backup/
+dict/
+node_modules/
+*.asar
+*.exe
+
+# 词库不随仓库分发（来自 sheen945/claude-hanhua，见 docs/03-code-ui.md）
+*.json.gz
+
+# 系统
+Thumbs.db
+desktop.ini
+.DS_Store
+__pycache__/
+*.pyc
