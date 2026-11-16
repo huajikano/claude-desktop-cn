@@ -82,7 +82,7 @@ python scripts/hanhua.py ion-install --work work --backup backup
 - 面板：**选择环境 / 导入 3 个 Claude Code CLI 会话**
 - 输入框：**描述任务或提出问题**
 
-![Code 界面中文](../assets/code-ui-zh.png)
+![Code 界面中文](../assets/claude-code-desktop-zh.png)
 
 ## 还原
 

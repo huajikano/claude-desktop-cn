@@ -78,5 +78,5 @@ fuse: EnableEmbeddedAsarIntegrityValidation: 48   ← 48 = 已关闭
 ## 效果
 
 外壳（侧栏、菜单、弹窗）和 Code 标签页是同一次汉化的结果，效果图见
-[README 顶部截图](../assets/code-ui-zh.png)：侧栏「新功能 / 搜索 / 自定义 / 多」、
+[README 顶部截图](../assets/claude-code-desktop-zh.png)：侧栏「新功能 / 搜索 / 自定义 / 多」、
 标题「新会话」、输入框「描述任务或提出问题」都已经是中文。

@@ -4,7 +4,7 @@
 附带踩坑记录、校验数据和一键还原脚本。全部在 Windows 11 22621 + Claude Desktop `5.11492.5.0`（MSIX）
 + Claude Code `2.1.284`（native exe）上跑通。
 
-![Claude Code 桌面界面中文](assets/code-ui-zh.png)
+![Claude Code 桌面界面中文](assets/claude-code-desktop-zh.png)
 
 ## 先说结论
 
